@@ -1,1 +1,2 @@
 # BallerMoon
+BallerMoon is a Binance Smart Chain token, using Reflection tokenomics, auto-liquidity, and Anti-whale functions at 1% of circulating supply. The liquidity will be locked until the next Bitcoin Halving in 2024, to promote trust within our community. We are truly for the people and are driven by this mission and purpose for our community. Join us as we endeavor to change lives for generations to come, and enjoying the ride as we do it! #BallinToThemoon
